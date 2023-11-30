@@ -1,2 +1,1 @@
-# made_by_terraform
-Playing around with terraform
+# An example repo
